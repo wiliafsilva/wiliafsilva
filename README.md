@@ -1,19 +1,17 @@
-## Hi there 👋
+<div align="center">
+  <h1> Hello devs!
+  <div>
+    <h5>
+      I'm Wilia Francisco da Silva <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;Systems Programmer :man_technologist:
+    </h5>
+  </div>
+  </h1>
+</div>
 
-<!--
-**wiliafsilva/wiliafsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :thinking: Driven by curiosity to discover and understand new technologies.
+- :mortar_board: Studying Computer Science at Unit.
+- :diving_mask: Hobby: Enthusiastic about contributing to and learning from the open-source ecosystem.
 
 ## Technologies I've already used
 
