@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## My Stats
+
+[![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardSouzza&theme=github_light&show_icons=true)](https://github.com/RichardSouzza#gh-light-mode-only)
+[![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardSouzza&theme=github_dark&show_icons=true)](https://github.com/RichardSouzza#gh-dark-mode-only)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardSouzza&layout=compact&langs_count=8&theme=github_light)](https://github.com/RichardSouzza#gh-light-mode-only)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardSouzza&layout=compact&langs_count=8&theme=github_dark)](https://github.com/RichardSouzza#gh-dark-mode-only)
+
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=richardsouzza&layout=compact&langs_count=12&hide=Binary,Other&theme=github_light)](https://github.com/RichardSouzza#gh-light-mode-only)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=richardsouzza&layout=compact&langs_count=12&hide=Binary,Other&theme=github_dark)](https://github.com/RichardSouzza#gh-dark-mode-only)
